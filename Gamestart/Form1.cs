@@ -36,7 +36,7 @@ namespace Gamestart
             player.Play();
             Refresh();
             Thread.Sleep(1000);
-            labelCountdown.Text = "  2";
+            labelCountdown.Text = "2";
 
             player.Play();
             Refresh();
